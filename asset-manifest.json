@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://mukundakamatham.github.io/csb-mstjy/static/css/main.459ecc13.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-mstjy/static/js/main.10647b69.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-mstjy/static/js/main.10647b69.chunk.js.map",
+    "runtime-main.js": "https://mukundakamatham.github.io/csb-mstjy/static/js/runtime-main.24c3aaf9.js",
+    "runtime-main.js.map": "https://mukundakamatham.github.io/csb-mstjy/static/js/runtime-main.24c3aaf9.js.map",
+    "static/js/2.348336bc.chunk.js": "https://mukundakamatham.github.io/csb-mstjy/static/js/2.348336bc.chunk.js",
+    "static/js/2.348336bc.chunk.js.map": "https://mukundakamatham.github.io/csb-mstjy/static/js/2.348336bc.chunk.js.map",
+    "static/js/3.83cbd88d.chunk.js": "https://mukundakamatham.github.io/csb-mstjy/static/js/3.83cbd88d.chunk.js",
+    "static/js/3.83cbd88d.chunk.js.map": "https://mukundakamatham.github.io/csb-mstjy/static/js/3.83cbd88d.chunk.js.map",
+    "index.html": "https://mukundakamatham.github.io/csb-mstjy/index.html",
+    "static/css/main.459ecc13.chunk.css.map": "https://mukundakamatham.github.io/csb-mstjy/static/css/main.459ecc13.chunk.css.map",
+    "static/js/2.348336bc.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-mstjy/static/js/2.348336bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c3aaf9.js",
+    "static/js/2.348336bc.chunk.js",
+    "static/css/main.459ecc13.chunk.css",
+    "static/js/main.10647b69.chunk.js"
+  ]
+}
